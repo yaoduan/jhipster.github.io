@@ -5,7 +5,7 @@ url: http://jhipster.ddocs.cn
 github_repository_url: https://github.com/jhipster/jhipster.github.io
 kramdown:
   input: GFM
-gems:
+http://jhipster.ddocs.cn/:
   - jekyll-redirect-from
 whitelist:
   - jekyll-redirect-from
