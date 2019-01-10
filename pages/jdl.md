@@ -12,7 +12,7 @@ sitemap:
 
 The JDL is a JHipster specific domain language where you can describe all your applications, deployments, entities and their relationships in a single file (or more than one) with a simple and user-friendly syntax.
 
-You can use our online [JDL-Studio](https://start.jhipster.tech/jdl-studio/) or one of the [JHipster IDE](http://jhipster.ddocs.cn/jhipster-ide/) plugins/extensions, wich are available for [Eclipse](https://marketplace.eclipse.org/content/jhipster-ide), [VS Code](https://marketplace.visualstudio.com/items?itemName=jhipster-ide.jdl) and [Atom](https://atom.io/packages/ide-jhipster), to create a JDL file and its UML visualization. You can create and export or share the URL of your JDL model as well.
+You can use our online [JDL-Studio](https://start.jhipster.tech/jdl-studio/) or one of the [JHipster IDE](http://jhipster.ddocs.cnjhipster-ide/) plugins/extensions, wich are available for [Eclipse](https://marketplace.eclipse.org/content/jhipster-ide), [VS Code](https://marketplace.visualstudio.com/items?itemName=jhipster-ide.jdl) and [Atom](https://atom.io/packages/ide-jhipster), to create a JDL file and its UML visualization. You can create and export or share the URL of your JDL model as well.
 
 You can generate applications, deployments and entities from a JDL file using the `import-jdl` sub-generator, by running `jhipster import-jdl your-jdl-file.jdl`. 
 
@@ -58,7 +58,7 @@ Here is the JDL documentation:
 # <a name="sample"></a> JDL Sample
 
 The Oracle "Human Resources" sample application has been translated into JDL, and is available [here](https://github.com/jhipster/jdl-samples/blob/master/Oracle-Human-Resources-sample.jdl).
-The same application is loaded by default in [JDL-Studio](https://start.jhipster.tech/jdl-studio/) and [JHipster IDE](http://jhipster.ddocs.cn/jhipster-ide/) as well.
+The same application is loaded by default in [JDL-Studio](https://start.jhipster.tech/jdl-studio/) and [JHipster IDE](http://jhipster.ddocs.cnjhipster-ide/) as well.
 
 If you're looking for more samples, there is a repository for that right [here](https://github.com/jhipster/jdl-samples).
 
@@ -66,7 +66,7 @@ If you're looking for more samples, there is a repository for that right [here](
 
 You can then use JDL files to generate entities:
   - simply create a file with the extension '.jh' or '.jdl',
-  - declare your applications, deployments, entities and relationships or create and download the file with [JDL-Studio](https://start.jhipster.tech/jdl-studio/) or [JHipster IDE](http://jhipster.ddocs.cn/jhipster-ide/),
+  - declare your applications, deployments, entities and relationships or create and download the file with [JDL-Studio](https://start.jhipster.tech/jdl-studio/) or [JHipster IDE](http://jhipster.ddocs.cnjhipster-ide/),
   - If you are creating only entities in then run `jhipster import-jdl my_file.jdl` in your JHipster application's root folder.
   - If you are creating applications then just run `jhipster import-jdl my_file.jdl` in a folder.
 
@@ -468,7 +468,7 @@ Latest version introduces exclusions (which is quite a powerful option when sett
 With JHipster, you can also tell whether you don't want any client code, or server code.
 Even if you want to add a suffix to Angular-related files, you can do that in JHipster.
 [
-Filtering](http://jhipster.ddocs.cn/entities-filtering/) options can be activated on a per entity basis: filter `<entity name>` or for all entities: filter `*`.
+Filtering](http://jhipster.ddocs.cnentities-filtering/) options can be activated on a per entity basis: filter `<entity name>` or for all entities: filter `*`.
 In your JDL file, simply add these lines to do the same:
 
 ```

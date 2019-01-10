@@ -1,7 +1,7 @@
 safe:        true
 markdown: kramdown
 exclude: [node_modules, bower_components, vendor]
-url: http://jhipster.ddocs.cn/
+url: http://jhipster.ddocs.cn
 github_repository_url: https://github.com/jhipster/jhipster.github.io
 kramdown:
   input: GFM
