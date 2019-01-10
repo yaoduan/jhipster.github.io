@@ -135,7 +135,7 @@ If you want your application to be featured here just submit a PR to the [websit
     <div class="col-xs-12 col-sm-6 col-md-4">
       <div class="thumbnail no-margin-bottom">
          <div class="video-container">
-            <img width="560" height="315" src="https://www.jhipster.tech/images/showcase/jhipsterpress.png" />
+            <img width="560" height="315" src="http://jhipster.ddocs.cn/images/showcase/jhipsterpress.png" />
          </div>
          <div class="caption">
             <h3 id="thumbnail-label"><a href="http://www.jhipsterpress.com" target="_blank">Open Source: JHipsterPress</a></h3>

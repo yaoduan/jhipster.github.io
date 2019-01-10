@@ -8,7 +8,7 @@ JHipster release v5.5.0
 
 This minor release comes with 84 fixed issues and closed pull requests.
 
-The most important one, as everybody doing front-end work will experience it, is our new "pacman" loader (you need to see it to understand!). Many thanks to [@sabrinapayet](https://github.com/sabrinapayet) who did [#8558](https://github.com/jhipster/generator-jhipster/pull/8558), that's a [bug bounty](https://www.jhipster.tech/bug-bounties/) which is well-deserved!
+The most important one, as everybody doing front-end work will experience it, is our new "pacman" loader (you need to see it to understand!). Many thanks to [@sabrinapayet](https://github.com/sabrinapayet) who did [#8558](https://github.com/jhipster/generator-jhipster/pull/8558), that's a [bug bounty](http://jhipster.ddocs.cn/bug-bounties/) which is well-deserved!
 
 Here are the other important closed tickets and pull requests:
 
