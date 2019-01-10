@@ -1,11 +1,11 @@
 safe:        true
 markdown: kramdown
 exclude: [node_modules, bower_components, vendor]
-url: http://jhipster.ddocs.cn
+url: https://jhipster.ddocs.cn
 github_repository_url: https://github.com/jhipster/jhipster.github.io
 kramdown:
   input: GFM
-http://jhipster.ddocs.cn/:
+https://jhipster.ddocs.cn/:
   - jekyll-redirect-from
 whitelist:
   - jekyll-redirect-from

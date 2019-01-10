@@ -6,7 +6,7 @@ title: Release 5.4.1
 JHipster release v5.4.1
 ==================
 
-This patch release comes with 15 fixed issues and closed pull requests, including [3 bug bounties](https://github.com/jhipster/generator-jhipster/issues?q=milestone%3A5.4.1+is%3Aclosed+label%3A%24100) that were paid thanks to our [bug bounty program](http://jhipster.ddocs.cnbug-bounties/). If your company benefits from JHipster, wants great visibility in our community, or wants the ability to choose which tickets deserve bug bounties, please consider [sponsoring the project](http://jhipster.ddocs.cnsponsors/).
+This patch release comes with 15 fixed issues and closed pull requests, including [3 bug bounties](https://github.com/jhipster/generator-jhipster/issues?q=milestone%3A5.4.1+is%3Aclosed+label%3A%24100) that were paid thanks to our [bug bounty program](https://jhipster.ddocs.cnbug-bounties/). If your company benefits from JHipster, wants great visibility in our community, or wants the ability to choose which tickets deserve bug bounties, please consider [sponsoring the project](https://jhipster.ddocs.cnsponsors/).
 
 This fixes a few minor issues, including:
 

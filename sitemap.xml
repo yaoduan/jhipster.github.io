@@ -12,7 +12,7 @@ layout:
     </url>
   {% endfor %}
   <url>
-      <loc>http://jhipster.ddocs.cnpresentation</loc>
+      <loc>https://jhipster.ddocs.cnpresentation</loc>
       <changefreq>daily</changefreq>
       <priority>0.6</priority>
   </url>

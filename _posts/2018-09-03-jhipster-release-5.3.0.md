@@ -33,7 +33,7 @@ Cool interesting fixes and features
 Bug bounties
 -------------
 
-Our [bug bounty program](http://jhipster.ddocs.cnbug-bounties/) worked well on this release, with $500 being given for fixing issues!
+Our [bug bounty program](https://jhipster.ddocs.cnbug-bounties/) worked well on this release, with $500 being given for fixing issues!
 
 
 Closed tickets and merged pull requests
