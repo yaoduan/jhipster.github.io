@@ -15,7 +15,7 @@ sitemap:
     <div class="col-md-6 col-sm-12">
         <div class="thumbnail no-margin-bottom">
             <div class="video-container">
-                <iframe width="420" height="315" src="https://www.youtube.com/embed/-VQ_SVkaXbs" frameborder="0" allowfullscreen></iframe>
+                <!-- <iframe width="420" height="315" src="https://www.youtube.com/embed/-VQ_SVkaXbs" frameborder="0" allowfullscreen></iframe> -->
             </div>
             <div class="caption">
                 <h3 id="thumbnail-label">JHipster Blog Demo<a class="anchorjs-link" href="#thumbnail-label"><span class="anchorjs-icon"></span></a></h3>
@@ -35,7 +35,7 @@ sitemap:
     <div class="col-xs-12 col-sm-6 col-md-4">
         <div class="thumbnail no-margin-bottom">
             <div class="video-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/D9XYYh6xAog" frameborder="0" allowfullscreen></iframe>
+                <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/D9XYYh6xAog" frameborder="0" allowfullscreen></iframe> -->
             </div>
             <div class="caption">
                 <h3 id="thumbnail-label">JHipster What's new in our Spring:Summer 2018 collection at Devoxx France 2018<a class="anchorjs-link" href="#thumbnail-label"><span class="anchorjs-icon"></span></a></h3>
@@ -48,7 +48,7 @@ sitemap:
     <div class="col-xs-12 col-sm-6 col-md-4">
         <div class="thumbnail no-margin-bottom">
             <div class="video-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/dl6LtO2yveA" frameborder="0" allowfullscreen></iframe>
+                <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/dl6LtO2yveA" frameborder="0" allowfullscreen></iframe> -->
             </div>
             <div class="caption">
                 <h3 id="thumbnail-label">Interview with Julien Dubois &amp; Deepu K Sasidharan at Devoxx Belgium 2017<a class="anchorjs-link" href="#thumbnail-label"><span class="anchorjs-icon"></span></a></h3>
@@ -60,7 +60,7 @@ sitemap:
     <div class="col-xs-12 col-sm-6 col-md-4">
         <div class="thumbnail no-margin-bottom">
             <div class="video-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/qYEEuiI4l10" frameborder="0" allowfullscreen></iframe>
+                <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/qYEEuiI4l10" frameborder="0" allowfullscreen></iframe> -->
             </div>
             <div class="caption">
                 <h3 id="thumbnail-label">Angular vs React Smackdown at Devoxx Belgium 2017<a class="anchorjs-link" href="#thumbnail-label"><span class="anchorjs-icon"></span></a></h3>
@@ -75,7 +75,7 @@ sitemap:
     <div class="col-xs-12 col-sm-6 col-md-4">
         <div class="thumbnail no-margin-bottom">
             <div class="video-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/FuG5t_UW7pw" frameborder="0" allowfullscreen></iframe>
+                <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/FuG5t_UW7pw" frameborder="0" allowfullscreen></iframe> -->
             </div>
             <div class="caption">
                 <h3 id="thumbnail-label">Easy microservices with JHipster at Devoxx Belgium 2017<a class="anchorjs-link" href="#thumbnail-label"><span class="anchorjs-icon"></span></a></h3>
@@ -88,7 +88,7 @@ sitemap:
     <div class="col-xs-12 col-sm-6 col-md-4">
         <div class="thumbnail no-margin-bottom">
             <div class="video-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/cN2yyD6JYvc" frameborder="0" allowfullscreen></iframe>
+                <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/cN2yyD6JYvc" frameborder="0" allowfullscreen></iframe> -->
             </div>
             <div class="caption">
                 <h3 id="thumbnail-label">Building React applications with JHipster at Devoxx Belgium 2017<a class="anchorjs-link" href="#thumbnail-label"><span class="anchorjs-icon"></span></a></h3>
@@ -101,7 +101,7 @@ sitemap:
     <div class="col-xs-12 col-sm-6 col-md-4">
         <div class="thumbnail no-margin-bottom">
             <div class="video-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/F0LshPnnGY4" frameborder="0" allowfullscreen></iframe>
+                <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/F0LshPnnGY4" frameborder="0" allowfullscreen></iframe> -->
             </div>
             <div class="caption">
                 <h3 id="thumbnail-label">1 hour of JHipster at Voxxeddays Singapore 2017<a class="anchorjs-link" href="#thumbnail-label"><span class="anchorjs-icon"></span></a></h3>
@@ -116,7 +116,7 @@ sitemap:
     <div class="col-xs-12 col-sm-6 col-md-4">
         <div class="thumbnail no-margin-bottom">
             <div class="video-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/YmEKClTBkUI" frameborder="0" allowfullscreen></iframe>
+                <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/YmEKClTBkUI" frameborder="0" allowfullscreen></iframe> -->
             </div>
             <div class="caption">
                 <h3 id="thumbnail-label">Building Spring boot + Angular4 apps in minutes with JHipster at Spring IO<a class="anchorjs-link" href="#thumbnail-label"><span class="anchorjs-icon"></span></a></h3>
@@ -129,7 +129,7 @@ sitemap:
     <div class="col-xs-12 col-sm-6 col-md-4">
         <div class="thumbnail no-margin-bottom">
             <div class="video-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/wJruVpv0WH4" frameborder="0" allowfullscreen></iframe>
+                <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/wJruVpv0WH4" frameborder="0" allowfullscreen></iframe> -->
             </div>
             <div class="caption">
                 <h3 id="thumbnail-label">(in French) 3 hours of JHipster at Devoxx France 2017<a class="anchorjs-link" href="#thumbnail-label"><span class="anchorjs-icon"></span></a></h3>
@@ -142,7 +142,7 @@ sitemap:
     <div class="col-xs-12 col-sm-6 col-md-4">
         <div class="thumbnail no-margin-bottom">
             <div class="video-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/dzdjP3CPOCs" frameborder="0" allowfullscreen></iframe>
+                <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/dzdjP3CPOCs" frameborder="0" allowfullscreen></iframe> -->
             </div>
             <div class="caption">
                 <h3 id="thumbnail-label">3 hours of JHipster at Devoxx 2016<a class="anchorjs-link" href="#thumbnail-label"><span class="anchorjs-icon"></span></a></h3>
@@ -157,7 +157,7 @@ sitemap:
     <div class="col-xs-12 col-sm-6 col-md-4">
         <div class="thumbnail no-margin-bottom">
             <div class="video-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/dOO-8cAKDu8" frameborder="0" allowfullscreen></iframe>
+                <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/dOO-8cAKDu8" frameborder="0" allowfullscreen></iframe> -->
             </div>
             <div class="caption">
                 <h3 id="thumbnail-label">What's new in JHipster in 2016?<a class="anchorjs-link" href="#thumbnail-label"><span class="anchorjs-icon"></span></a></h3>
@@ -170,7 +170,7 @@ sitemap:
     <div class="col-xs-12 col-sm-6 col-md-4">
         <div class="thumbnail no-margin-bottom">
             <div class="video-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/m0eZcfLHQyg" frameborder="0" allowfullscreen></iframe>
+                <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/m0eZcfLHQyg" frameborder="0" allowfullscreen></iframe> -->
             </div>
             <div class="caption">
                 <h3 id="thumbnail-label">Creating a microservices application and a gateway<a class="anchorjs-link" href="#thumbnail-label"><span class="anchorjs-icon"></span></a></h3>
@@ -184,7 +184,7 @@ sitemap:
     <div class="col-xs-12 col-sm-6 col-md-4">
         <div class="thumbnail no-margin-bottom">
             <div class="video-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/kkHN2G_nXV0" frameborder="0" allowfullscreen></iframe>
+                <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/kkHN2G_nXV0" frameborder="0" allowfullscreen></iframe> -->
             </div>
             <div class="caption">
                 <h3 id="thumbnail-label">Get hip with JHipster 3.0<a class="anchorjs-link" href="#thumbnail-label"><span class="anchorjs-icon"></span></a></h3>
@@ -199,7 +199,7 @@ sitemap:
     <div class="col-xs-12 col-sm-6 col-md-4">
         <div class="thumbnail no-margin-bottom">
             <div class="video-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/nnkxLSJcFLQ" frameborder="0" allowfullscreen></iframe>
+                <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/nnkxLSJcFLQ" frameborder="0" allowfullscreen></iframe> -->
             </div>
             <div class="caption">
                 <h3 id="thumbnail-label">(in French) What's new for JHipster in 2016?<a class="anchorjs-link" href="#thumbnail-label"><span class="anchorjs-icon"></span></a></h3>
@@ -212,7 +212,7 @@ sitemap:
     <div class="col-xs-12 col-sm-6 col-md-4">
         <div class="thumbnail no-margin-bottom">
             <div class="video-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/nKRpVkba4Ck" frameborder="0" allowfullscreen></iframe>
+                <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/nKRpVkba4Ck" frameborder="0" allowfullscreen></iframe> -->
             </div>
             <div class="caption">
                 <h3 id="thumbnail-label">JHipster 3.0<a class="anchorjs-link" href="#thumbnail-label"><span class="anchorjs-icon"></span></a></h3>
@@ -225,7 +225,7 @@ sitemap:
     <div class="col-xs-12 col-sm-6 col-md-4">
         <div class="thumbnail no-margin-bottom">
             <div class="video-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/5CWu4NoMsSk" frameborder="0" allowfullscreen></iframe>
+                <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/5CWu4NoMsSk" frameborder="0" allowfullscreen></iframe> -->
             </div>
             <div class="caption">
                 <h3 id="thumbnail-label">JHipster, the best way to breed a new webapp<a class="anchorjs-link" href="#thumbnail-label"><span class="anchorjs-icon"></span></a></h3>
@@ -240,7 +240,7 @@ sitemap:
     <div class="col-xs-12 col-sm-6 col-md-4">
         <div class="thumbnail no-margin-bottom">
             <div class="video-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/ZGF4gEM4FuA" frameborder="0" allowfullscreen></iframe>
+                <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/ZGF4gEM4FuA" frameborder="0" allowfullscreen></iframe> -->
             </div>
             <div class="caption">
                 <h3 id="thumbnail-label">JHipster Blog Demo<a class="anchorjs-link" href="#thumbnail-label"><span class="anchorjs-icon"></span></a></h3>
@@ -255,7 +255,7 @@ sitemap:
     <div class="col-xs-12 col-sm-6 col-md-4">
         <div class="thumbnail no-margin-bottom">
             <div class="video-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/baVOGuFIe9M" frameborder="0" allowfullscreen></iframe>
+                <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/baVOGuFIe9M" frameborder="0" allowfullscreen></iframe> -->
             </div>
             <div class="caption">
                 <h3 id="thumbnail-label">Get hip with JHipster 2.0<a class="anchorjs-link" href="#thumbnail-label"><span class="anchorjs-icon"></span></a></h3>
@@ -268,7 +268,7 @@ sitemap:
     <div class="col-xs-12 col-sm-6 col-md-4">
         <div class="thumbnail no-margin-bottom">
             <div class="video-container">
-                <iframe width="420" height="315" src="https://www.youtube.com/embed/d1MEM8PdAzQ" frameborder="0" allowfullscreen></iframe>
+                <!-- <iframe width="420" height="315" src="https://www.youtube.com/embed/d1MEM8PdAzQ" frameborder="0" allowfullscreen></iframe> -->
             </div>
             <div class="caption">
                 <h3 id="thumbnail-label">JHipster 20 minutes tutorial<a class="anchorjs-link" href="#thumbnail-label"><span class="anchorjs-icon"></span></a></h3>
