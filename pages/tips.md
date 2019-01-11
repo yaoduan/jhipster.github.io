@@ -9,7 +9,7 @@ sitemap:
     lastmod: 2018-03-19T08:40:00-00:00
 ---
 
-# <i class="fa fa-cogs"></i> Tips'n tricks
+# <i class="fa fa-cogs"></i> Tips'n 技巧
 
 This section contains __user-submitted tips'n tricks__ on using JHipster.
 
